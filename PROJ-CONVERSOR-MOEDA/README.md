@@ -54,7 +54,7 @@ Exemplo de taxas utilizadas:
 👨‍💻 Como rodar localmente 
 
 1. Clone o repositório: 
-   git clone https:https://github.com/Guedes-hub/java-script/tree/main/PROJ-CONVERSOR-MOEDA
+   git clone: https://github.com/Guedes-hub/java-script/tree/main/PROJ-CONVERSOR-MOEDA
 
 2. Acesse a pasta do projeto: 
    cd conversor-de-moedas 
