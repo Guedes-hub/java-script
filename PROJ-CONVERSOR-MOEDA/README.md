@@ -1,1 +1,1 @@
-![Prévia do Conversor de Moeda](./PROJ-CONVERSOR-MOEDA/assets-conversor/Conversor-moeda.png)
+![Prévia do Conversor de Moeda](./assets-conversor/Conversor-moeda.png)
