@@ -80,7 +80,7 @@ As taxas de câmbio utilizadas são estáticas (fixas no código). Para uma vers
 
 2. Acesse o projeto na web: https://guedes-hub.github.io/java-script/
 
-3. Acesse a pasta do projeto: cd conversor-de-moedas
+3. Acesse o README.md: https://github.com/Guedes-hub/java-script/blob/main/docs%2FREADME.md
 
 4. Abra o arquivo index.html em seu navegador.
 <br>
