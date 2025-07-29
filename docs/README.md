@@ -76,7 +76,7 @@ As taxas de câmbio utilizadas são estáticas (fixas no código). Para uma vers
 
 👨‍💻 Como rodar localmente
 
-1. Clone o repositório: https://github.com/Guedes-hub/java-script/blob/main/docs/README.md
+1. Clone o repositório: https://github.com/Guedes-hub/java-script/tree/main/docs
 
 2. Acesse o projeto na web: https://guedes-hub.github.io/java-script/
 
