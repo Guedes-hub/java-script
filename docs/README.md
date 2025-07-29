@@ -82,7 +82,7 @@ As taxas de câmbio utilizadas são estáticas (fixas no código). Para uma vers
 
 3. Acesse o README.md: https://github.com/Guedes-hub/java-script/blob/main/docs%2FREADME.md
 
-4. Abra o arquivo index.html em seu navegador.
+4. Perfil do autor: https://github.com/Guedes-hub
 <br>
 <br>
 
