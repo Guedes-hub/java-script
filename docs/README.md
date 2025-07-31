@@ -63,7 +63,7 @@ Exemplo prático: - De: US$ Dólar americano - Para: R$ Real - Valor: 1 Resultad
 <br>
 
 
-📁 conversor-de-moedas ├── index.html ├── style.css ├── script.js └── README.md
+📁 docs - assets-conversor ├── index.html ├── style.css ├── scripts.js └── README.md
 <br>
 <br>
 
@@ -107,3 +107,4 @@ Este projeto está sob a licença MIT. Sinta-se livre para utilizar, modificar e
 ---
 
 Feito com 💜 por Guedes-hub(https://github.com/Guedes-hub)
+*Git hub page (docs)
